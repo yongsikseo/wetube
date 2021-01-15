@@ -2,8 +2,7 @@
   "name": "wetube",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
+    "scripts": {
     "start": "nodemon --exec babel-node init.js --delay 2"
   },
   "repository": {
